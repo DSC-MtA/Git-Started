@@ -15,7 +15,9 @@ Eliot Scott
 Weiting Li
 2nd year computer science student, from Changsha, China
 
-
+Dylan Suen
+I'm a first year student and don't know what I want to major in.
+I've seen Google Headquarters before
 
 Amelia Williams
 1st year math student from Ontario
@@ -29,4 +31,3 @@ I enjoy snowboarding!
 
 Shay Li
 3rd year computer science, from Charlottetown, PE
-
