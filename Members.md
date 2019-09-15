@@ -13,6 +13,7 @@ Eliot Scott
 4th year computer science student, from Vancouver BC
 
 Crystal Sharpe
+<<<<<<< HEAD
 1st year Cognitive Science student from Oakville, Ontario
 <<<<<<< HEAD
 I read a lot of classic novels (by choice)
@@ -36,3 +37,6 @@ Shay Li
 =======
 My secret is that I can't think of a secret right now.
 >>>>>>> parent of 60278d0... Added a secret
+=======
+1st year Cognitive Science student from Oakville, Ontario
+>>>>>>> parent of 08cfac5... Added secret
