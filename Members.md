@@ -17,3 +17,4 @@ Weiting Li
 
 Shay Li
 3rd year computer science, from Charlottetown, PE
+I'm a cat person but I only have one cat
