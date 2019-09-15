@@ -16,3 +16,4 @@ Weiting Li
 2nd year computer science student, from Changsha, China
 
 Dylan Suen
+I'm a first year student and don't know what I want to major in.
