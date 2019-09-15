@@ -16,4 +16,4 @@ Weiting Li
 2nd year computer science student, from Changsha, China
 
 Shay Li
-3rd year cs, from Charlottetown, PE
+3rd year computer science, from Charlottetown, PE
