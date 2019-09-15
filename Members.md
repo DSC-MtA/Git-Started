@@ -12,6 +12,10 @@ I've used Git before!
 Eliot Scott
 4th year computer science student, from Vancouver BC
 
+Crystal Sharpe
+1st year Cognitive Science student from Oakville, Ontario
+I read a lot of classic novels (by choice)
+
 Weiting Li
 2nd year computer science student, from Changsha, China
 
@@ -22,11 +26,9 @@ Amelia Williams
 1st year math student from Ontario
 Salt and Vinegar chips are my fave!
 
-
 Kathryn
 3rd year computer geek!
 I enjoy snowboarding!
-
 
 Shay Li
 3rd year computer science, from Charlottetown, PE
