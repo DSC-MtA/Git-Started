@@ -5,7 +5,7 @@ I make my own yogurt.
 Sung Ho Yoon
 1st year BSc with undecided major, from South Korea
 
-Calun
+Calum
 I'm a first year computer science student from Summerland, BC.
 I've used Git before!
 
