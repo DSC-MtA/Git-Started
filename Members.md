@@ -3,7 +3,7 @@ Computer science geek huzzah! In 4th year.
 I make my own yogurt.
 
 Sung Ho Yoon
-## Note that first name is "Sung Ho" with a space in the middle
+## Note that first name is "Sung Ho" with a space in the middle ##
 1st year BSc with undecided major, from South Korea
 
 Calun
