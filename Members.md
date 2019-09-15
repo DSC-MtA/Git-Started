@@ -16,7 +16,7 @@ Weiting Li
 2nd year computer science student, from Changsha, China
 
 Amelia Williams
-
+1st year math student from Ontario
 
 
 
