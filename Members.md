@@ -17,3 +17,4 @@ Weiting Li
 
 Kathryn
 3rd year computer geek!
+I enjoy snowboarding!
