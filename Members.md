@@ -18,3 +18,16 @@ Weiting Li
 Dylan Suen
 I'm a first year student and don't know what I want to major in.
 I've seen Google Headquarters before
+
+Amelia Williams
+1st year math student from Ontario
+Salt and Vinegar chips are my fave!
+
+
+Kathryn
+3rd year computer geek!
+I enjoy snowboarding!
+
+
+Shay Li
+3rd year computer science, from Charlottetown, PE
