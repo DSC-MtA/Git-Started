@@ -31,3 +31,7 @@ I enjoy snowboarding!
 
 Shay Li
 3rd year computer science, from Charlottetown, PE
+
+Kathryn
+3rd year computer geek!
+
