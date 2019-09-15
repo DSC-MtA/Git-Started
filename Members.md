@@ -19,3 +19,16 @@ I read a lot of classic novels (by choice)
 Weiting Li
 2nd year computer science student, from Changsha, China
 
+Dylan Suen
+I'm a first year student and don't know what I want to major in.
+
+Amelia Williams
+1st year math student from Ontario
+Salt and Vinegar chips are my fave!
+
+Kathryn
+3rd year computer geek!
+I enjoy snowboarding!
+
+Shay Li
+3rd year computer science, from Charlottetown, PE

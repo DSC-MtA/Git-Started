@@ -87,3 +87,7 @@ Explore this repositories commit history to look at your changes and learn about
 **Revert a commit**
 
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;`git revert <commit hash>`
+
+**Save your username and password in git (Warning! This involves a potential security risk!)**
+
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;`git config credential.helper store`
