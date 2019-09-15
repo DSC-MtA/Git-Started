@@ -17,3 +17,4 @@ Weiting Li
 
 Dylan Suen
 I'm a first year student and don't know what I want to major in.
+I've seen Google Headquarters before
