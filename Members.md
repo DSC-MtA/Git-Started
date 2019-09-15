@@ -17,9 +17,5 @@ Weiting Li
 
 Amelia Williams
 1st year math student from Ontario
-
-
-
-
-
+Salt and Vinegar chips are my fave!
 
