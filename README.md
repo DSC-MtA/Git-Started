@@ -24,7 +24,7 @@
 ## Today's mission
 To learn the basics of **version control** by editing a single file simultaneously with many others!
 
-### _Part 1_
+### _Part 1_ (Optional)
 Complete the following Katacoda Scenarios :
 1. [Committing Files](https://www.katacoda.com/courses/git/1)
 2. [Committing Changes](https://www.katacoda.com/courses/git/2)
