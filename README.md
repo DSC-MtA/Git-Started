@@ -35,7 +35,7 @@ Complete the following Katacoda Scenarios :
 
 
 ### _Part  2_
-Clone a copy of this repository and some add information about yourself to [Members.md](https://github.com/DSC-MtA/Git-Started), and include a secret!
+Clone a copy of this repository and some add information about yourself to [Participants.md](https://github.com/DSC-MtA/Git-Started/blob/master/Participants.md), and include a secret!
 
  &nbsp;&nbsp;&nbsp;&nbsp;_For your bio information, include your academic year, focus of study, and home town/city._
 
